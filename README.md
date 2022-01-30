@@ -1,5 +1,5 @@
 # KeepFit App
-### Obiettivo proggetto: 
+### Obiettivo progetto: 
 L'idea è stata di realizzare un'applicazione per creare schede di allenamento personalizzate in base alle esigenze della persona inserendo esercizi di qualsiasi entità.
 
 ### Sezioni del progetto:
